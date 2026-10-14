@@ -1,0 +1,1 @@
+C:\Users\declan\ \ SP\Documents\COS101\k.nnadiCOS101\week\ 8\ practice\ 1\ -\ 12\practice_10\target\debug\practice_10.exe: C:\Users\declan\ \ SP\Documents\COS101\k.nnadiCOS101\week\ 8\ practice\ 1\ -\ 12\practice_10\src\main.rs
